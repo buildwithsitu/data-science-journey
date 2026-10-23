@@ -53,7 +53,8 @@ print(numbers)  # [100, 20, 30, 20]
 An ordered, immutable collection that allows duplicates.
 ```python
 coordinates = (10, 20, 30)
-print(coordinates[0])  # 10print(type(coordinates))  # <class 'tuple'>
+print(coordinates[0])  # 10
+print(type(coordinates))  # <class 'tuple'>
 ```
 
 
